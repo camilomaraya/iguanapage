@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Raleway';
+    text-align: center;
+    font-size: 100%;
+    background-color: black;
+    color: white;
+}
+
+.intro{
+    width: 40%;
+    margin: 5%;
+    float: left;
+    padding: 3rem;
+    text-align: left;
+}
+
+.titulo{
+    font-size: 40px;
+}
+
+.card{
+    display: inline-block;
+    width: 33%;
+    font-size: 20px;
+    padding: 3em;
+
+}
+
+.card-2{
+    display: inline;
+    width: 33%
+    padding: 2em;
+}
+
+.footer{
+    background-color: brown;
+    color: white;
+    padding: 2em;
+}
